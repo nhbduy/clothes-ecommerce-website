@@ -3,29 +3,34 @@
     {
       "title": "hats",
       "imageUrl": "https://cdn0.iconfinder.com/data/icons/online-clothes-shopping-set/128/iStar_Design_Online_Shopping_LineIcons_Live-12-512.png",
-      "id": 1
+      "id": 1,
+      "linkUrl": "hats"
     },
     {
       "title": "jackets",
       "imageUrl": "https://cdn0.iconfinder.com/data/icons/online-clothes-shopping-set/128/iStar_Design_Online_Shopping_LineIcons_Live-42-512.png",
-      "id": 2
+      "id": 2,
+      "linkUrl": "jackets"
     },
     {
       "title": "sneakers",
       "imageUrl": "https://cdn0.iconfinder.com/data/icons/online-clothes-shopping-set/128/iStar_Design_Online_Shopping_LineIcons_Live-96-512.png",
-      "id": 3
+      "id": 3,
+      "linkUrl": "sneakers"
     },
     {
       "title": "womens",
       "imageUrl": "https://cdn0.iconfinder.com/data/icons/online-clothes-shopping-set/128/iStar_Design_Online_Shopping_LineIcons_Live-68-512.png",
       "size": "large",
-      "id": 4
+      "id": 4,
+      "linkUrl": "womens"
     },
     {
       "title": "mens",
       "imageUrl": "https://cdn0.iconfinder.com/data/icons/online-clothes-shopping-set/128/iStar_Design_Online_Shopping_LineIcons_Live-74-512.png",
       "size": "large",
-      "id": 5
+      "id": 5,
+      "linkUrl": "mens"
     }
   ]
 }

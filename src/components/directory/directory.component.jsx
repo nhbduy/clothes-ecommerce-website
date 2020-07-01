@@ -6,13 +6,13 @@ import MenuItem from 'components/menu-item/menu-item.component';
 
 import './directory.styles.scss';
 
-const Directory = () => {
+const Directory = (props) => {
   const [sections, setSections] = React.useState(data.sections);
 
   return (
     <div className='directory-menu'>
-      {sections.map(({ title, imageUrl, id }) => (
-        <MenuItem key={id} title={title} imageUrl={imageUrl} />
+      {sections.map(({ id, ...otherProps }) => (
+        <MenuItem key={id} {...otherProps} />
       ))}
     </div>
   );
