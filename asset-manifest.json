@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/clothes-ecommerce-website/static/css/main.def64c16.chunk.css",
-    "main.js": "/clothes-ecommerce-website/static/js/main.d4b72e14.chunk.js",
-    "main.js.map": "/clothes-ecommerce-website/static/js/main.d4b72e14.chunk.js.map",
-    "runtime-main.js": "/clothes-ecommerce-website/static/js/runtime-main.c78c6c6e.js",
-    "runtime-main.js.map": "/clothes-ecommerce-website/static/js/runtime-main.c78c6c6e.js.map",
-    "static/js/2.a8ae1a4c.chunk.js": "/clothes-ecommerce-website/static/js/2.a8ae1a4c.chunk.js",
-    "static/js/2.a8ae1a4c.chunk.js.map": "/clothes-ecommerce-website/static/js/2.a8ae1a4c.chunk.js.map",
-    "index.html": "/clothes-ecommerce-website/index.html",
-    "precache-manifest.ab3cc4a671bd73479ca63086bdef0c09.js": "/clothes-ecommerce-website/precache-manifest.ab3cc4a671bd73479ca63086bdef0c09.js",
-    "service-worker.js": "/clothes-ecommerce-website/service-worker.js",
-    "static/css/main.def64c16.chunk.css.map": "/clothes-ecommerce-website/static/css/main.def64c16.chunk.css.map",
-    "static/js/2.a8ae1a4c.chunk.js.LICENSE.txt": "/clothes-ecommerce-website/static/js/2.a8ae1a4c.chunk.js.LICENSE.txt",
-    "static/media/logo.5d5d9eef.svg": "/clothes-ecommerce-website/static/media/logo.5d5d9eef.svg"
+    "main.css": "/np/static/css/main.def64c16.chunk.css",
+    "main.js": "/np/static/js/main.d4b72e14.chunk.js",
+    "main.js.map": "/np/static/js/main.d4b72e14.chunk.js.map",
+    "runtime-main.js": "/np/static/js/runtime-main.3825c930.js",
+    "runtime-main.js.map": "/np/static/js/runtime-main.3825c930.js.map",
+    "static/js/2.a8ae1a4c.chunk.js": "/np/static/js/2.a8ae1a4c.chunk.js",
+    "static/js/2.a8ae1a4c.chunk.js.map": "/np/static/js/2.a8ae1a4c.chunk.js.map",
+    "index.html": "/np/index.html",
+    "precache-manifest.cfc6847dded75c18b355093c1e64cdb3.js": "/np/precache-manifest.cfc6847dded75c18b355093c1e64cdb3.js",
+    "service-worker.js": "/np/service-worker.js",
+    "static/css/main.def64c16.chunk.css.map": "/np/static/css/main.def64c16.chunk.css.map",
+    "static/js/2.a8ae1a4c.chunk.js.LICENSE.txt": "/np/static/js/2.a8ae1a4c.chunk.js.LICENSE.txt",
+    "static/media/logo.5d5d9eef.svg": "/np/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c78c6c6e.js",
+    "static/js/runtime-main.3825c930.js",
     "static/js/2.a8ae1a4c.chunk.js",
     "static/css/main.def64c16.chunk.css",
     "static/js/main.d4b72e14.chunk.js"
