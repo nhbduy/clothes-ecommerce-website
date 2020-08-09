@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.def64c16.chunk.css",
-    "main.js": "/static/js/main.d4b72e14.chunk.js",
-    "main.js.map": "/static/js/main.d4b72e14.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.61edcef3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.61edcef3.js.map",
-    "static/js/2.a8ae1a4c.chunk.js": "/static/js/2.a8ae1a4c.chunk.js",
-    "static/js/2.a8ae1a4c.chunk.js.map": "/static/js/2.a8ae1a4c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d9b9ad53a4e62e3b40bbb61f638cdf72.js": "/precache-manifest.d9b9ad53a4e62e3b40bbb61f638cdf72.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.def64c16.chunk.css.map": "/static/css/main.def64c16.chunk.css.map",
-    "static/js/2.a8ae1a4c.chunk.js.LICENSE.txt": "/static/js/2.a8ae1a4c.chunk.js.LICENSE.txt",
-    "static/media/logo.5d5d9eef.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/clothes-ecommerce-website/static/css/main.def64c16.chunk.css",
+    "main.js": "/clothes-ecommerce-website/static/js/main.d4b72e14.chunk.js",
+    "main.js.map": "/clothes-ecommerce-website/static/js/main.d4b72e14.chunk.js.map",
+    "runtime-main.js": "/clothes-ecommerce-website/static/js/runtime-main.c78c6c6e.js",
+    "runtime-main.js.map": "/clothes-ecommerce-website/static/js/runtime-main.c78c6c6e.js.map",
+    "static/js/2.a8ae1a4c.chunk.js": "/clothes-ecommerce-website/static/js/2.a8ae1a4c.chunk.js",
+    "static/js/2.a8ae1a4c.chunk.js.map": "/clothes-ecommerce-website/static/js/2.a8ae1a4c.chunk.js.map",
+    "index.html": "/clothes-ecommerce-website/index.html",
+    "precache-manifest.ab3cc4a671bd73479ca63086bdef0c09.js": "/clothes-ecommerce-website/precache-manifest.ab3cc4a671bd73479ca63086bdef0c09.js",
+    "service-worker.js": "/clothes-ecommerce-website/service-worker.js",
+    "static/css/main.def64c16.chunk.css.map": "/clothes-ecommerce-website/static/css/main.def64c16.chunk.css.map",
+    "static/js/2.a8ae1a4c.chunk.js.LICENSE.txt": "/clothes-ecommerce-website/static/js/2.a8ae1a4c.chunk.js.LICENSE.txt",
+    "static/media/logo.5d5d9eef.svg": "/clothes-ecommerce-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.61edcef3.js",
+    "static/js/runtime-main.c78c6c6e.js",
     "static/js/2.a8ae1a4c.chunk.js",
     "static/css/main.def64c16.chunk.css",
     "static/js/main.d4b72e14.chunk.js"
